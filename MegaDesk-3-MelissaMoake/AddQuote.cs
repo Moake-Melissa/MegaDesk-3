@@ -97,7 +97,7 @@ namespace MegaDesk_3_MelissaMoake
             // Confirm that the width field is not empty.
             if (depth.Length == 0)
             {
-                errorMessage = "Width is required.";
+                errorMessage = "Depth is required.";
                 return false;
             }
 
