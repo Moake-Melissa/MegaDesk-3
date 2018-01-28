@@ -161,7 +161,7 @@
             this.materialType.Location = new System.Drawing.Point(178, 177);
             this.materialType.MaxDropDownItems = 5;
             this.materialType.Name = "materialType";
-            this.materialType.Size = new System.Drawing.Size(121, 21);
+            this.materialType.Size = new System.Drawing.Size(153, 21);
             this.materialType.TabIndex = 12;
             this.materialType.Text = "Select an option...";
             // 
@@ -201,7 +201,7 @@
             this.rushOptions.Location = new System.Drawing.Point(178, 211);
             this.rushOptions.MaxDropDownItems = 5;
             this.rushOptions.Name = "rushOptions";
-            this.rushOptions.Size = new System.Drawing.Size(121, 21);
+            this.rushOptions.Size = new System.Drawing.Size(153, 21);
             this.rushOptions.TabIndex = 15;
             this.rushOptions.Text = "Select an option...";
             // 
